@@ -1,0 +1,6 @@
+Instructions. (Using the .jar file)
+1. Install the plugin by dropping the .jar file inside your servers plugins folder and restarting.
+2. Enable the Skript via /sk enable 
+3. You're finished and the plugin should be working.
+
+Ensure Skbee and Multi-Verse Core is enabled and installed.
